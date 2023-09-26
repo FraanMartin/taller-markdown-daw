@@ -61,7 +61,7 @@ Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2].
 
 # Imagenes internas
 
-![](img/cr7.jpg)
+![](img/captura.PNG)
 
 # Listas desordenadas
 
